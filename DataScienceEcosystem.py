@@ -1,6 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# <center>
+#     <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png" width="300" alt="cognitiveclass.ai logo">
+# </center>
+# 
+
+# #### Add your code below following the instructions given in the course
+# 
+
 # # Data Science Tools and Ecosystem
 
 # In this notebook, Data Science Tools and Ecosystem are summarized
@@ -22,7 +30,7 @@
 # 3. SciKit-Learn
 # 4. Pytorch
 
-# In[8]:
+# In[ ]:
 
 
 #Exercise 6
@@ -37,7 +45,7 @@
 
 # ### Below are a few examples of evaluating arithmetic expressions in Python
 
-# In[4]:
+# In[ ]:
 
 
 a = 1
@@ -52,7 +60,7 @@ print (d)
 print (f)
 
 
-# In[5]:
+# In[ ]:
 
 
 #Exercise 8
@@ -62,7 +70,7 @@ result= (3*4)+5
 print (result)
 
 
-# In[7]:
+# In[ ]:
 
 
 #Excercise 9
@@ -74,9 +82,3 @@ print (hours)
 
 
 # ## Alba Cabanillas Pascual
-
-# In[ ]:
-
-
-
-
